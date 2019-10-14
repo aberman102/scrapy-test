@@ -15,6 +15,7 @@ The attributes that can be extracted include the following for each product.
 - 52 week resale high 
 - 52 week resale low 
 
+A presentation deck is also included in this folder based on data extracted during the week of October 7, 2019.
 
 Please install the Scrapy package. 
 
